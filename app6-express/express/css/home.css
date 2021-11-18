@@ -1,0 +1,17 @@
+.boxes button {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    font-size: 1rem;
+    text-align: center;
+    text-decoration: none;
+    background: gold;
+    color: #000;
+  }
+  
+  .boxes button:nth-of-type(even) {
+    background: #e6c200;
+  }
